@@ -3510,3 +3510,634 @@ Choice| Answer
   
 </p>
 </details>
+
+
+Az900
+------
+
+1. True or false: You need to purchase an Azure account before you can use any Azure resources.
+
+False
+
+True
+2. What is meant by cloud computing?
+
+Delivery of computing services over the internet.
+
+Setting up your own datacenter.
+
+Using the internet
+3. Which of the following is not a feature of Cloud computing?
+
+Faster innovation
+
+A limited pool of services
+
+Speech recognition and other cognitive services
+
+
+1. Which of the following choices isn't a cloud computing category?
+
+Networking-as-a-Service (NaaS)
+
+Platform-as-a-Service (PaaS)
+
+Infrastructure-as-a-Service (IaaS)
+
+Software-as-a-Service (SaaS)
+2. Which of the following statements is true?
+
+With Operating Expenses (OpEx), you are responsible for purchasing and maintaining your computing resources.
+
+With Operating Expenses (OpEx), you are only responsible for the computing resources that you use.
+
+With Capital Expenses (CapEx), you are only responsible for the computing resources that you use.
+3. Which of the following options isn't a type of cloud computing?
+
+Distributed cloud
+
+Hybrid cloud
+
+Private cloud
+
+Public cloud
+4. Which of the following choices isn't a benefit of using cloud services?
+
+Scalability
+
+Disaster recovery
+
+High availability
+
+Geographic isolation
+
+1. Which of the following can be used to manage governance across multiple Azure subscriptions?
+
+Azure initiatives
+
+Management groups
+
+Resource groups
+2. Which of the following is a logical unit of Azure services that links to an Azure account?
+
+Azure subscription
+
+Management group
+
+Resource group
+
+Public cloud
+3. Which of the following features does not apply to resource groups?
+
+Resources can be in only one resource group.
+
+Role-based access control can be applied to the resource group.
+
+Resource groups can be nested.
+4. Which of the following statements is a valid statement about an Azure subscription?
+
+Using Azure doesn't require a subscription.
+
+An Azure subscription is a logical unit of Azure services.
+
+
+1. Which Azure compute resource can be deployed to manage a set of identical virtual machines?
+
+Virtual machine scale sets
+
+Virtual machine availability sets
+
+Virtual machine availability zones
+2. Which of the following services should be used when the primary concern is to perform work in response to an event (often via a REST command) that needs a response in a few seconds?
+
+Azure Functions
+
+Azure App Service
+
+Azure Container Instances
+3. Your company has a team of remote workers that need to use Windows-based software to develop your company's applications, but your team members are using various operating systems like macOS, Linux, and Windows. Which Azure compute service would help resolve this scenario?
+
+Azure App Service
+
+Azure Virtual Desktop
+
+Azure Container Instances
+
+1. Tailwind Traders wants to create a secure communication tunnel between its branch offices. Which of the following technologies can't be used?
+
+Point-to-site virtual private network
+
+Implicit FTP over SSL
+
+Azure ExpressRoute
+
+Site-to-site virtual private network
+2. Tailwind Traders wants to use Azure ExpressRoute to connect its on-premises network to the Microsoft cloud. Which of the following choices isn't an ExpressRoute model that Tailwind Traders can use?
+
+Any-to-any connection
+
+Site-to-site virtual private network
+
+Point-to-point Ethernet connection
+
+CloudExchange colocation
+3. Which of the following options can you use to link virtual networks?
+
+Network address translation
+
+Multi-chassis link aggregation
+
+Dynamic Host Configuration Protocol
+
+Virtual network peering
+4. Which of the following options isn't a benefit of ExpressRoute?
+
+Redundant connectivity
+
+Consistent network throughput
+
+Encrypted network communication
+
+Access to Microsoft cloud services
+
+
+1. What is the first step that you would take in order to share an image file as a blob in Azure Storage?
+
+Create an Azure Storage container to store the image.
+
+Create an Azure Storage account.
+
+Upload the image file and create a container.
+
+Use a Shared Access Signature (SAS) token to restrict access to the image.
+2. Which Azure Storage option is better for storing data for backup and restore, disaster recovery, and archiving?
+
+Azure Files Storage
+
+Azure Disk Storage
+
+Azure Blob Storage
+
+1. Your development team is interested in writing Graph-based applications that take advantage of the Gremlin API. Which option would be ideal for that scenario?
+
+Azure Cosmos DB
+
+Azure SQL Database
+
+Azure Databricks
+
+Azure Database for PostgreSQL
+2. Tailwind Traders uses the LAMP stack for several of its websites. Which option would be ideal for migration?
+
+Azure Cosmos DB
+
+Azure Database for MySQL
+
+Azure Database for PostgreSQL
+3. Tailwind Traders has millions of log entries that it wants to analyze. Which option would be ideal for analysis?
+
+Azure Cosmos DB
+
+Azure SQL Database
+
+Azure Database for PostgreSQL
+
+Azure Synapse Analytics
+
+1. A company wants to build a new voting kiosk for sales to governments around the world. Which IoT technologies should the company choose to ensure the highest degree of security?
+
+IoT Hub
+
+IoT Central
+
+Azure Sphere
+2. A company wants to quickly manage its individual IoT devices by using a web-based user interface. Which IoT technology should it choose?
+
+IoT Hub
+
+IoT Central
+
+Azure Sphere
+3. You want to send messages from the IoT device to the cloud and vice versa. Which IoT technology can send and receive messages?
+
+IoT Hub
+
+IoT Central
+
+Azure Sphere
+
+
+1. You need to predict future behavior based on previous actions. Which product option should you select as a candidate?
+
+Azure Machine Learning
+
+Azure Bot Service
+
+Azure Cognitive Services
+2. You need to create a human-computer interface that uses natural language to answer customer questions. Which product option should you select as a candidate?
+
+Azure Machine Learning
+
+Azure Cognitive Services
+
+Azure Bot Service
+3. You need to identify the content of product images to automatically create alt tags for images formatted properly. Which product option is the best candidate?
+
+Azure Machine Learning
+
+Azure Cognitive Services
+
+Azure Bot Service
+
+1. You need to process messages from a queue, parse them by using some existing imperative logic written in Java, and then send them to a third-party API. Which serverless option should you choose?
+
+Azure Functions
+
+Azure Logic Apps
+2. You want to orchestrate a workflow by using APIs from several well-known services. Which is the best option for this scenario?
+
+Azure Functions
+
+Azure Logic Apps
+3. Your team has limited experience with writing custom code, but it sees tremendous value in automating several important business processes. Which of the following options is your team's best option?
+
+Azure Functions
+
+Azure Logic Apps
+
+1. Which of the following choices would not be used to automate a CI/CD process?
+
+Azure Pipelines
+
+GitHub Actions
+
+Azure Boards
+2. Which service could help you manage the VMs that your developers and testers need to ensure that your new app works across various operating systems?
+
+Azure DevTest Labs
+
+Azure Test Labs
+
+Azure Repos
+3. Which service lacks features to assign individual developers tasks to work on?
+
+Azure Boards
+
+GitHub
+
+Azure Pipelines
+
+1. As an administrator, you need to retrieve the IP address from a particular VM by using Bash. Which of the following tools should you use?
+
+ARM templates
+
+Azure PowerShell
+
+The Azure portal
+
+The Azure CLI
+2. You're a developer who needs to set up your first VM to host a process that runs nightly. Which of the following tools is your best choice?
+
+ARM templates
+
+Azure PowerShell
+
+The Azure portal
+
+The Azure CLI
+3. What is the best infrastructure-as-code option for quickly and reliably setting up your entire cloud infrastructure declaratively?
+
+ARM templates
+
+Azure PowerShell
+
+The Azure portal
+
+The Azure CLI
+
+1. You want to be alerted when new recommendations to improve your cloud environment are available. Which service will do this?
+
+Azure Advisor
+
+Azure Monitor
+
+Azure Service Health
+2. Which service provides official outage root cause analyses (RCAs) for Azure incidents?
+
+Azure Advisor
+
+Azure Monitor
+
+Azure Service Health
+3. Which service is a platform that powers Application Insights, monitoring for VMs, containers, and Kubernetes?
+
+Azure Advisor
+
+Azure Monitor
+
+Azure Service Health
+
+Consider the following scenario.
+
+Tailwind Traders is moving its online payment system from its datacenter to the cloud. The payment system consists of virtual machines (VMs) and SQL Server databases.
+
+Here are a few security requirements that the company identifies as it plans the migration:
+
+It wants to ensure a good security posture across all of its systems, both on Azure and on-premises.
+In the datacenter, access to VMs requires a TLS certificate. The company needs a place to safely store and manage its certificates.
+Here are some additional requirements that relate to regulatory compliance:
+
+Tailwind Traders must store certain customer data on-premises, in its datacenter.
+For certain workloads, the company must be the only customer running VMs on the physical hardware.
+The company must only run approved business applications on each VM.
+See the following diagram that shows the proposed architecture.
+
+A diagram showing the proposed architecture. Virtual machines run both on Azure and in the datacenter.
+
+On Azure, Tailwind Traders will use both standard VMs and VMs that run on dedicated physical hardware. In the datacenter, the company will run VMs that can connect to databases within its internal network.
+
+Choose the best response for each question. Then select Check your answers.
+
+Check your knowledge
+1. How can Tailwind Traders enforce having only certain applications run on its VMs?
+
+Connect your VMs to Azure Sentinel.
+
+Create an application control rule in Azure Security Center.
+
+Periodically run a script that lists the running processes on each VM. The IT manager can then shut down any applications that shouldn't be running.
+2. What's the easiest way for Tailwind Traders to combine security data from all of its monitoring tools into a single report that it can take action on?
+
+Collect security data in Azure Sentinel.
+
+Build a custom tool that collects security data, and displays a report through a web application.
+
+Look through each security log daily and email a summary to your team.
+3. Which is the best way for Tailwind Traders to safely store its certificates so that they're accessible to cloud VMs?
+
+Place the certificates on a network share.
+
+Store them on a VM that's protected by a password.
+
+Store the certificates in Azure Key Vault.
+4. How can Tailwind Traders ensure that certain VM workloads are physically isolated from workloads being run by other Azure customers?
+
+Configure the network to ensure that VMs on the same physical host are isolated.
+
+This is not possible. These workloads need to be run on-premises.
+
+Run the VMs on Azure Dedicated Host.
+
+
+Consider the following scenario. Then choose the best response for each question that follows and select Check your answers.
+
+Tailwind Traders is moving its online payment system to Azure. The processing of online orders begins through a website, which Tailwind Traders manages through Azure App Service. (App Service is a way to host web applications on Azure.)
+
+The web application that runs the website passes order information to virtual machines (VMs), which further process each order. These VMs exist on an Azure virtual network, but they need to access the internet to retrieve software packages and system updates.
+
+Here's a diagram that shows the basic architecture of the company's payment system:
+
+An architecture diagram that shows network traffic flowing into Azure. Azure App Service receives passes public network traffic to virtual machines running on a virtual network.
+
+The security team wants to ensure that only valid network traffic reaches the company's Azure resources. As an extra layer of defense, the team also wants to ensure that the VMs can reach only trusted hosts on specific ports.
+
+Check your knowledge
+1. An attacker can bring down your website by sending a large volume of network traffic to your servers. Which Azure service can help Tailwind Traders protect its App Service instance from this kind of attack?
+
+Azure Firewall
+
+Network security groups
+
+Azure DDoS Protection
+2. What's the best way for Tailwind Traders to limit all outbound traffic from VMs to known hosts?
+
+Configure Azure DDoS Protection to limit network access to trusted ports and hosts.
+
+Create application rules in Azure Firewall.
+
+Ensure that all running applications communicate with only trusted ports and hosts.
+3. How can Tailwind Traders most easily implement a deny by default policy so that VMs can't connect to each other?
+
+Allocate each VM on its own virtual network.
+
+Create a network security group rule that prevents access from another VM on the same network.
+
+Configure Azure DDoS Protection to limit network access within the virtual network.
+
+Consider the following scenario. Then choose the best response for each question that follows and select Check your answers.
+
+At Tailwind Traders, recall that retail employees are issued tablet devices from which they can track orders and plan their work schedules.
+
+Tailwind Traders also allows delivery drivers to use their own mobile devices to access scheduling and logistics applications.
+
+A stolen password might allow unauthorized access to company and customer data. Tailwind Traders wants to extend its investments in Active Directory to secure all of its applications, when accessed both from the intranet and from public networks.
+
+The company is looking into how Azure Active Directory (Azure AD), single sign-on (SSO), multifactor authentication, and Conditional Access can help it achieve those goals.
+
+Check your knowledge
+1. How can the IT department ensure that employees at the company's retail stores can access company applications only from approved tablet devices?
+
+SSO
+
+Conditional Access
+
+Multifactor authentication
+2. How can the IT department use biometric properties, such as facial recognition, to enable delivery drivers to prove their identities?
+
+SSO
+
+Conditional Access
+
+Multifactor authentication
+3. How can the IT department reduce the number of times users must authenticate to access multiple applications?
+
+SSO
+
+Conditional Access
+
+Multifactor authentication
+
+Consider the following scenario.
+
+Tailwind Traders has created environments for development and testing for its e-commerce system.
+
+Here's a diagram that shows the basic compute, database, and networking components found in each environment.
+
+A diagram of the development and test environments. Each environment contains virtual machines, a database, and a virtual network. The development environment includes three virtual machines. The test environment contains six virtual machines.
+
+These environments provide a way for the team to build and test new application features. If you've gone through the Plan and manage your Azure costs module, then you've already seen this layout.
+
+Although the development and test teams report to different departments, both environments exist under the same Azure subscription.
+
+The IT manager wants to implement governance controls to help ensure that only authorized users can access these systems. Having these controls in place will also help them track and manage operating costs.
+
+Choose the best response for each question. Then select Check your answers.
+
+Check your knowledge
+1. How can Tailwind Traders allow some users to control the virtual machines in each environment but prevent them from modifying networking and other resources in the same resource group or Azure subscription?
+
+Create a role assignment through Azure role-based access control (Azure RBAC).
+
+Create a policy in Azure Policy that audits resource usage.
+
+Split the environment into separate resource groups.
+2. Which is the best way for Tailwind Traders to ensure that the team deploys only cost-effective virtual machine SKU sizes?
+
+Create a policy in Azure Policy that specifies the allowed SKU sizes.
+
+Periodically inspect the deployment manually to see which SKU sizes are used.
+
+Create an Azure RBAC role that defines the allowed virtual machine SKU sizes.
+3. Which is likely the best way for Tailwind Traders to identify which billing department each Azure resource belongs to?
+
+Track resource usage in a spreadsheet.
+
+Split the deployment into separate Azure subscriptions, where each subscription belongs to its own billing department.
+
+Apply a tag to each resource that includes the associated billing department.
+
+Consider the following scenario.
+
+At Tailwind Traders, the legal and IT departments want to better understand how Microsoft handles personal data. They also want to better understand how Azure services can help them meet their compliance goals.
+
+Their needs go beyond just Azure. For example, applications in their retail stores use Cortana to help store employees quickly locate items.
+
+Choose the best response for each question. Then select Check your answers.
+
+Check your knowledge
+1. Where can the team access details about the personal data Microsoft processes and how the company processes it, including for Cortana?
+
+Microsoft Privacy Statement
+
+The Azure compliance documentation
+
+Microsoft compliance offerings
+2. Where can the legal team access information around how the Microsoft cloud helps them secure sensitive data and comply with applicable laws and regulations?
+
+Microsoft Privacy Statement
+
+Trust Center
+
+Online Services Terms
+3. Where can the IT department find reference blueprints that it can apply directly to its Azure subscriptions?
+
+Online Services Terms
+
+Azure compliance documentation
+
+Microsoft Privacy Statement
+
+Consider the following scenario, then choose the best response for each question that follows, and select Check your answers.
+
+Before they migrate their existing e-commerce system from their datacenter to production environments on Azure, the Tailwind Traders team wants to first set up environments for development and testing.
+
+Here's a diagram that shows the basic compute, database, and networking components found in each environment:
+
+A diagram of the development and test environments. Each environment contains virtual machines, a database, and a virtual network. The development environment includes three virtual machines. The test environment contains six virtual machines.
+
+An e-commerce system might require a website, the products database, a payment system, and so on. Because developers can't always run the entire service from their local development environment, the Dev environment is the first place where everything the app needs comes together.
+
+After the development team verifies changes to the Dev environment, they promote changes to the Test environment. The Test environment is where the testing team verifies new app features and also verifies that no regressions, or breaks to existing features, happen as new features are added.
+
+The team will map each component in their existing infrastructure to the appropriate Azure service.
+
+Check your knowledge
+1. Which is the best first step the team should take to compare the cost of running these environments on Azure versus in their datacenter?
+
+They're just test environments. Spin them up and check the bill at the end of the month.
+
+Assume that running in the cloud costs about the same as running in the datacenter.
+
+Run the Total Cost of Ownership Calculator.
+2. What's the best way to ensure that the development team doesn't provision too many virtual machines at the same time?
+
+Do nothing. Let the development team use what they need.
+
+Apply spending limits to the development team's Azure subscription.
+
+Verbally give the development lead a budget and hold them accountable for overages.
+3. Which is the most efficient way for the testing team to save costs on virtual machines on weekends, when testers are not at work?
+
+Delete the virtual machines before the weekend and create a new set the following week.
+
+Deallocate virtual machines when they're not in use.
+
+Just let everything run. Azure bills you only for the CPU time that you use.
+4. Resources in the Dev and Test environments are each paid for by different departments. What's the best way to categorize costs by department?
+
+Apply a tag to each virtual machine that identifies the appropriate billing department.
+
+Split the cost evenly between departments.
+
+Keep a spreadsheet that lists each team's resources.
+
+Consider the following scenario. Then choose the best response for each question that follows, and select Check your answers.
+
+Recall that the Tailwind Traders' Special Orders application includes two virtual machines, Azure Load Balancer, and Azure SQL Database:
+
+A diagram showing two virtual machines connected to Azure Load Balancer and Azure SQL Database.
+
+Here's the service-level agreement (SLA) for each service:
+
+Service	SLA
+Azure Virtual Machines	99.9 percent
+Azure SQL Database	99.99 percent
+Azure Load Balancer	99.99 percent
+To compute the composite SLA for a set of services, you multiply the SLA of each individual service. Recall that the existing composite SLA is:
+
+99.9
+%
+×
+99.9
+%
+×
+99.99
+%
+×
+99.99
+%
+=
+99.78
+%
+The team wants to add a mapping feature so that it can calculate routes between nearby suppliers and each retail store. For that, the team will use Azure Maps.
+
+The team also needs more processing power to keep up with demand. For that, it will add a third virtual machine to the pool.
+
+Here's a diagram that shows their proposed plan:
+
+A diagram showing three virtual machines connected to Azure Load Balancer, Azure SQL Database, and Azure Maps.
+
+Recall that you can access SLAs from Service Level Agreements.
+
+Tailwind Traders is also considering using an augmented reality service in the Special Orders app to help customers visualize their customizations. This Azure service is currently in the public preview phase.
+
+Check your knowledge
+1. What's the SLA for Azure Maps in terms of guaranteed uptime?
+
+99 percent
+
+99.9 percent
+
+99.99 percent
+2. What's the new composite SLA? Remember, the new SLA includes a third virtual machine and Azure Maps.
+
+99.58 percent
+
+99.78 percent
+
+99.99 percent
+3. Adding a third virtual machine reduces the composite SLA. How can Tailwind Traders offset this reduction?
+
+Increase the size of each virtual machine.
+
+Deploy extra instances of the same virtual machines across the different availability zones in the same Azure region.
+
+Do nothing. Using Azure Load Balancer increases the SLA for virtual machines.
+4. What approach might the company take in adding the augmented reality (AR) preview service to its architecture?
+
+The Special Orders app is already in production. The company shouldn't look into the AR service until the service reaches general availability (GA).
+
+The Special Orders app is mainly for use by retail employees. The company can integrate the AR service now because potential downtime or failures aren't an important factor.
+
+The development team can create a prototype version of the app that includes the AR service that it tests out with select retail employees.
+
